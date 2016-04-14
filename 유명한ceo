@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>유명한 ceo</title>
+
+    <style>
+
+        table, td, th {
+                        border: 1px solid ;
+                         text-align: center
+                     }
+
+
+    </style>
+
+
+</head>
+<body>
+    <h1>유명한 CEO</h1>
+<table border="1">
+        <tr>
+             <th>First name</th>
+             <th>Last name</th>
+         </tr>
+         <tr>
+             <td>스티브</td>
+             <td>잡스</td>
+
+         </tr>
+         <tr>
+             <td>빌</td>
+             <td>게이츠</td>
+
+         </tr>
+         <tr>
+             <td>마크</td>
+            <td>저커버그</td>
+
+            </tr>
+         <tr>
+            <td>앨런</td>
+             <td>머스크</td>
+
+        </tr>
+     </table>
+
+
+</body>
+</html>
